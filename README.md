@@ -6,6 +6,20 @@ A comprehensive study applying model compression techniques (pruning and quantiz
 
 **W&B Public Report**: https://api.wandb.ai/links/esp1/i6njs410
 
+### Key Visualizations
+
+**Model Size Comparison**
+![Model Size Comparison](insights/model_size_comparison.png)
+
+**Accuracy vs Compression Trade-offs**
+![Accuracy Comparison](insights/accuracy_comparison.png)
+
+**Energy Consumption Analysis**
+![Energy Consumption](insights/energy_consumption.png)
+
+**Key Findings Summary**
+![Key Findings](insights/key_findings_comparison.png)
+
 ## 🏗️ Project Structure
 
 ```
