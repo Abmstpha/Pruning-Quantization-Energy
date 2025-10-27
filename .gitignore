@@ -43,6 +43,11 @@ emissions.csv
 *.jpg
 *.jpeg
 
+# Allow visualization images in insights folder
+!insights/*.png
+!insights/*.jpg
+!insights/*.jpeg
+
 # Models
 models/trained_models/
 !models/trained_models/.gitkeep
