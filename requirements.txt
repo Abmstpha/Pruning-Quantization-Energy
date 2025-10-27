@@ -1,0 +1,30 @@
+# Core ML libraries
+torch==2.8.0
+torchvision
+timm
+
+# Data handling
+pandas==2.2.2
+openpyxl
+
+# Model analysis
+ptflops
+thop
+torch-pruning
+
+# Energy tracking
+codecarbon==2.8.4
+
+# Visualization
+matplotlib
+seaborn
+
+# Experiment tracking (optional)
+wandb
+
+# Development tools
+jupyter
+ipykernel
+black
+flake8
+pytest
